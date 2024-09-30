@@ -69,22 +69,22 @@ heading:'SOLAR SAVER TOOLS',
 p1:'There are many variations of Solar Saver tools available, but the majority have suffered alteration in some form.',
 box1:{
     img:'https://solarsaver.vercel.app/assets/png1-CHwXHQYP.svg',
-    paragraph:`Real-time, accurate ${<br/>} production estimates.`},
+    paragraph:`Real-time, accurate <br/> production estimates.`},
     box2:{
         img:'https://solarsaver.vercel.app/assets/png2-BdZxoh61.svg',
-        paragraph:`Minimal training time for ${<br/>} new sales representatives.`},
+        paragraph:`Minimal training time for <br/> new sales representatives.`},
         box3:{
             img:'https://solarsaver.vercel.app/assets/png3-DQyZYqFR.svg',
-            paragraph:`Homeowner-focused ${<br/>} proposal design for clarity.`},
+            paragraph:`Homeowner-focused <br/> proposal design for clarity.`},
             box4:{
                 img:'https://solarsaver.vercel.app/assets/png4-DtkWNZzq.svg',
-                paragraph:`Customizable solar sales ${<br/>} tools for each representative.`},
+                paragraph:`Customizable solar sales <br/> tools for each representative.`},
                 box5:{
                     img:'https://solarsaver.vercel.app/assets/png5-BhXUQqOL.svg',
-                    paragraph:`Quick and accurate ${<br/>} solar sales proposals.`},
+                    paragraph:`Quick and accurate <br/> solar sales proposals.`},
                     box6:{
                         img:'https://solarsaver.vercel.app/assets/png6-K1TI4P5r.svg',
-                        paragraph:`Smart management features for ${<br/>} effective team coordination.`},
+                        paragraph:`Smart management features for <br/> effective team coordination.`},
     }
     ,
     Before_After:{
@@ -188,3 +188,4 @@ card3:{
         btn:'Calculate Solar',
     },
 }
+export default solerSaver
